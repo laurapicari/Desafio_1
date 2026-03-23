@@ -1,0 +1,5 @@
+print ("Data de Nascimento")
+data = input("Que dia você nasceu: ")
+mês = input("Mês que você nasceu: ")
+ano = input("Ano que você nasceu: ")
+print (f"{mês},{data},{ano}")
